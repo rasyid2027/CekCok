@@ -1,0 +1,13 @@
+{
+    "nama" : "abdul shomad",
+    "nrp" : "12312312",
+    "umur" : 18,
+    "jurusan" : "Teknik Informatika",
+    "lulusan" : true,
+    "hobby" : ["olahraga",
+                "gaming,"],
+    "dosen" : {
+        "dosen1" : "padika",
+        "dosen2" : "usman"
+    }
+}
